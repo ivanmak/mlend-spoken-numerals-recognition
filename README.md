@@ -37,5 +37,5 @@ The coursework was done on the following environment:
 - pydub 0.25.1
 
 ## References
-[https://www.tensorflow.org/tutorials/audio/simple_audio](https://www.tensorflow.org/tutorials/audio/simple_audio)
-[https://dataunbox.com/split-audio-files-using-python/](https://dataunbox.com/split-audio-files-using-python/)
+- [https://www.tensorflow.org/tutorials/audio/simple_audio](https://www.tensorflow.org/tutorials/audio/simple_audio)
+- [https://dataunbox.com/split-audio-files-using-python/](https://dataunbox.com/split-audio-files-using-python/)
